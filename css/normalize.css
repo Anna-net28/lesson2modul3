@@ -46,6 +46,20 @@ li {
 a {
     text-decoration: none;
     cursor: pointer;
+    outline: none;
+}
+
+a:hover {
+    color: #CD06FF;
+}
+
+a:active {
+    color: #6C0287;
+}
+
+a:focus {
+    border: 2px solid #CD06FF;
+    color: inherit;
 }
 
 abbr[title] {

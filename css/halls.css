@@ -22,17 +22,24 @@
 }
 
 .halls-img__title {
-    font-size: 70px;
-    font-weight: 700;
-    line-height: 80px;
-    letter-spacing: 0em;
+    
     position: absolute;
     top:50%;
     left: 50%;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     transform: translate(-50%, -50%);
-    text-transform: uppercase;
+    
     width: 78%;
+}
+
+.title__link {
+    font-size: 70px;
+    color: #fff;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-transform: uppercase;
 }
 
 .halls-img__link {

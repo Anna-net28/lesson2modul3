@@ -23,3 +23,7 @@ git add .
 git commit -m "cursor: pointer"
 git diff --color-words
 git push
+git add .
+git commit -m "normalize,questions,index,halls,booking"
+git diff --color-words
+git push
