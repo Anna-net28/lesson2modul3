@@ -45,6 +45,7 @@ li {
 
 a {
     text-decoration: none;
+    cursor: pointer;
 }
 
 abbr[title] {
@@ -77,6 +78,7 @@ button,
 input {
     overflow: visible;
     outline: none;
+    cursor: pointer;
 }
 
 button,

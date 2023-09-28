@@ -19,4 +19,7 @@ git add .
 git commit -m "header, banner, booking,questions,,footer -hover,active,focus"
 git diff --color-words
 git push
-
+git add .
+git commit -m "cursor: pointer"
+git diff --color-words
+git push
